@@ -1,2 +1,3 @@
 # BeatmapsetsToOsz!
-![Screen-478](https://github.com/Astercunae/BeatmapsetsToOsz/assets/62370135/67449581-ac92-43a7-8e37-af36ec1b6443)
+![Screen-480](https://github.com/Astercunae/BeatmapsetsToOsz/assets/62370135/46c53316-7136-4a34-a3fb-0d8a7b037c51)
+
