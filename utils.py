@@ -26,3 +26,4 @@ def compress_to_osz(songs_path, output_folder):
         archive_path = os.path.join(output_folder, beatmap)
         shutil.make_archive(archive_path, 'zip', os.path.join(songs_path, beatmap)).replace(".zip", ".osz")
         os.rename(archive_path + ".zip", osz_file)
+
